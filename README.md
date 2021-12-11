@@ -1,4 +1,4 @@
-# Tinder clone using React
+# Tinder clone using React & MongoDB
 Simple tinder-clone with React and Backend using MongoDb (Deployed at Heroku)
 
 __MongoDB__
